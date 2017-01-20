@@ -4832,9 +4832,9 @@
   "screen.orientation": {
     "chrome": {
       "35": "polyfilled",
-      "40": "native",
-      "42": "native",
-      "46": "native",
+      "40": "polyfilled",
+      "42": "polyfilled",
+      "46": "polyfilled",
       "48": "native",
       "54": "native"
     },
@@ -6515,26 +6515,51 @@
   },
   "Number.parseFloat": {
     "chrome": {
+      "35": "native",
+      "40": "native",
+      "42": "native",
+      "46": "native",
+      "48": "native",
       "54": "native"
     }
   },
   "Number.parseInt": {
     "chrome": {
+      "35": "native",
+      "40": "native",
+      "42": "native",
+      "46": "native",
+      "48": "native",
       "54": "native"
     }
   },
   "Object.entries": {
     "chrome": {
+      "35": "polyfilled",
+      "40": "polyfilled",
+      "42": "polyfilled",
+      "46": "polyfilled",
+      "48": "polyfilled",
       "54": "native"
     }
   },
   "MutationObserver": {
     "chrome": {
+      "35": "native",
+      "40": "native",
+      "42": "native",
+      "46": "native",
+      "48": "native",
       "54": "native"
     }
   },
   "Promise.prototype.finally": {
     "chrome": {
+      "35": "polyfilled",
+      "40": "polyfilled",
+      "42": "polyfilled",
+      "46": "polyfilled",
+      "48": "polyfilled",
       "54": "polyfilled"
     }
   }
