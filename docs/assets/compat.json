@@ -6521,6 +6521,14 @@
       "46": "native",
       "48": "native",
       "54": "native"
+    },
+    "firefox": {
+      "30": "native",
+      "33": "native",
+      "41": "native",
+      "42": "native",
+      "44": "native",
+      "49": "native"
     }
   },
   "Number.parseInt": {
@@ -6531,6 +6539,14 @@
       "46": "native",
       "48": "native",
       "54": "native"
+    },
+    "firefox": {
+      "30": "native",
+      "33": "native",
+      "41": "native",
+      "42": "native",
+      "44": "native",
+      "49": "native"
     }
   },
   "Object.entries": {
@@ -6541,6 +6557,14 @@
       "46": "polyfilled",
       "48": "polyfilled",
       "54": "native"
+    },
+    "firefox": {
+      "30": "polyfilled",
+      "33": "polyfilled",
+      "41": "polyfilled",
+      "42": "polyfilled",
+      "44": "polyfilled",
+      "49": "native"
     }
   },
   "MutationObserver": {
@@ -6551,6 +6575,14 @@
       "46": "native",
       "48": "native",
       "54": "native"
+    },
+    "firefox": {
+      "30": "native",
+      "33": "native",
+      "41": "native",
+      "42": "native",
+      "44": "native",
+      "49": "native"
     }
   },
   "Promise.prototype.finally": {
@@ -6561,6 +6593,14 @@
       "46": "polyfilled",
       "48": "polyfilled",
       "54": "polyfilled"
+    },
+    "firefox": {
+      "30": "polyfilled",
+      "33": "polyfilled",
+      "41": "polyfilled",
+      "42": "polyfilled",
+      "44": "polyfilled",
+      "49": "polyfilled"
     }
   }
 }
