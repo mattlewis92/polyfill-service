@@ -6512,5 +6512,30 @@
       "9.1": "native",
       "9.2": "native"
     }
+  },
+  "Number.parseFloat": {
+    "chrome": {
+      "54": "native"
+    }
+  },
+  "Number.parseInt": {
+    "chrome": {
+      "54": "native"
+    }
+  },
+  "Object.entries": {
+    "chrome": {
+      "54": "native"
+    }
+  },
+  "MutationObserver": {
+    "chrome": {
+      "54": "native"
+    }
+  },
+  "Promise.prototype.finally": {
+    "chrome": {
+      "54": "polyfilled"
+    }
   }
 }
