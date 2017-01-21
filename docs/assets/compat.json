@@ -6529,6 +6529,9 @@
       "42": "native",
       "44": "native",
       "49": "native"
+    },
+    "ie": {
+      "13": "native"
     }
   },
   "Number.parseInt": {
@@ -6547,6 +6550,9 @@
       "42": "native",
       "44": "native",
       "49": "native"
+    },
+    "ie": {
+      "13": "native"
     }
   },
   "Object.entries": {
@@ -6565,6 +6571,9 @@
       "42": "polyfilled",
       "44": "polyfilled",
       "49": "native"
+    },
+    "ie": {
+      "13": "polyfilled"
     }
   },
   "MutationObserver": {
@@ -6583,6 +6592,9 @@
       "42": "native",
       "44": "native",
       "49": "native"
+    },
+    "ie": {
+      "13": "native"
     }
   },
   "Promise.prototype.finally": {
@@ -6601,6 +6613,9 @@
       "42": "polyfilled",
       "44": "polyfilled",
       "49": "polyfilled"
+    },
+    "ie": {
+      "13": "polyfilled"
     }
   }
 }
