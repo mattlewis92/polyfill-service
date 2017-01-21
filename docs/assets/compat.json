@@ -6539,6 +6539,7 @@
       "13": "native"
     },
     "safari": {
+      "8": "polyfilled",
       "9": "native"
     }
   },
@@ -6568,6 +6569,7 @@
       "13": "native"
     },
     "safari": {
+      "8": "polyfilled",
       "9": "native"
     }
   },
@@ -6595,6 +6597,7 @@
       "13": "polyfilled"
     },
     "safari": {
+      "8": "polyfilled",
       "9": "polyfilled"
     }
   },
@@ -6624,6 +6627,7 @@
       "13": "native"
     },
     "safari": {
+      "8": "native",
       "9": "native"
     }
   },
@@ -6653,6 +6657,7 @@
       "13": "polyfilled"
     },
     "safari": {
+      "8": "polyfilled",
       "9": "polyfilled"
     }
   },
