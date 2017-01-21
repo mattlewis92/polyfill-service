@@ -6531,6 +6531,7 @@
       "49": "native"
     },
     "ie": {
+      "11": "polyfilled",
       "13": "native"
     }
   },
@@ -6552,6 +6553,7 @@
       "49": "native"
     },
     "ie": {
+      "11": "polyfilled",
       "13": "native"
     }
   },
@@ -6573,6 +6575,7 @@
       "49": "native"
     },
     "ie": {
+      "11": "polyfilled",
       "13": "polyfilled"
     }
   },
@@ -6594,6 +6597,7 @@
       "49": "native"
     },
     "ie": {
+      "11": "native",
       "13": "native"
     }
   },
@@ -6615,6 +6619,7 @@
       "49": "polyfilled"
     },
     "ie": {
+      "11": "missing",
       "13": "polyfilled"
     }
   }
