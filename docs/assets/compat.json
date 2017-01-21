@@ -6531,6 +6531,7 @@
       "49": "native"
     },
     "ie": {
+      "10": "polyfilled",
       "11": "polyfilled",
       "13": "native"
     }
@@ -6553,6 +6554,7 @@
       "49": "native"
     },
     "ie": {
+      "10": "polyfilled",
       "11": "polyfilled",
       "13": "native"
     }
@@ -6575,6 +6577,7 @@
       "49": "native"
     },
     "ie": {
+      "10": "polyfilled",
       "11": "polyfilled",
       "13": "polyfilled"
     }
@@ -6597,6 +6600,7 @@
       "49": "native"
     },
     "ie": {
+      "10": "native",
       "11": "native",
       "13": "native"
     }
@@ -6619,6 +6623,7 @@
       "49": "polyfilled"
     },
     "ie": {
+      "10": "missing",
       "11": "missing",
       "13": "polyfilled"
     }
