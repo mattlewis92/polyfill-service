@@ -6531,6 +6531,7 @@
       "49": "native"
     },
     "ie": {
+      "7": "polyfilled",
       "8": "polyfilled",
       "9": "polyfilled",
       "10": "polyfilled",
@@ -6556,6 +6557,7 @@
       "49": "native"
     },
     "ie": {
+      "7": "polyfilled",
       "8": "polyfilled",
       "9": "polyfilled",
       "10": "polyfilled",
@@ -6605,6 +6607,7 @@
       "49": "native"
     },
     "ie": {
+      "7": "native",
       "8": "native",
       "9": "native",
       "10": "native",
@@ -6630,6 +6633,7 @@
       "49": "polyfilled"
     },
     "ie": {
+      "7": "missing",
       "8": "missing",
       "9": "missing",
       "10": "missing",
@@ -6639,6 +6643,7 @@
   },
   "Object.entries (timeout after 30000ms, 2 retries)": {
     "ie": {
+      "7": "missing",
       "8": "missing"
     }
   }
