@@ -6537,6 +6537,9 @@
       "10": "polyfilled",
       "11": "polyfilled",
       "13": "native"
+    },
+    "safari": {
+      "9": "native"
     }
   },
   "Number.parseInt": {
@@ -6563,6 +6566,9 @@
       "10": "polyfilled",
       "11": "polyfilled",
       "13": "native"
+    },
+    "safari": {
+      "9": "native"
     }
   },
   "Object.entries": {
@@ -6587,6 +6593,9 @@
       "10": "polyfilled",
       "11": "polyfilled",
       "13": "polyfilled"
+    },
+    "safari": {
+      "9": "polyfilled"
     }
   },
   "MutationObserver": {
@@ -6613,6 +6622,9 @@
       "10": "native",
       "11": "native",
       "13": "native"
+    },
+    "safari": {
+      "9": "native"
     }
   },
   "Promise.prototype.finally": {
@@ -6639,6 +6651,9 @@
       "10": "missing",
       "11": "missing",
       "13": "polyfilled"
+    },
+    "safari": {
+      "9": "polyfilled"
     }
   },
   "Object.entries (timeout after 30000ms, 2 retries)": {
