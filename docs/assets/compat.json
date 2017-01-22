@@ -6545,6 +6545,9 @@
     },
     "android": {
       "4.4": "polyfilled"
+    },
+    "ios_saf": {
+      "9.1": "native"
     }
   },
   "Number.parseInt": {
@@ -6579,6 +6582,9 @@
     },
     "android": {
       "4.4": "polyfilled"
+    },
+    "ios_saf": {
+      "9.1": "native"
     }
   },
   "Object.entries": {
@@ -6611,6 +6617,9 @@
     },
     "android": {
       "4.4": "polyfilled"
+    },
+    "ios_saf": {
+      "9.1": "polyfilled"
     }
   },
   "MutationObserver": {
@@ -6645,6 +6654,9 @@
     },
     "android": {
       "4.4": "native"
+    },
+    "ios_saf": {
+      "9.1": "native"
     }
   },
   "Promise.prototype.finally": {
@@ -6679,6 +6691,9 @@
     },
     "android": {
       "4.4": "missing"
+    },
+    "ios_saf": {
+      "9.1": "polyfilled"
     }
   },
   "Object.entries (timeout after 30000ms, 2 retries)": {
