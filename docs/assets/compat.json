@@ -6343,6 +6343,9 @@
   "IntersectionObserver (timeout after 30000ms, 2 retries)": {
     "chrome": {
       "54": "missing"
+    },
+    "android": {
+      "4.3": "polyfilled"
     }
   },
   "Number.isInteger": {
@@ -6700,6 +6703,589 @@
     "ie": {
       "7": "missing",
       "8": "missing"
+    },
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "Function.name (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "console.table (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "Math.asinh (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "Math.hypot (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "console.debug (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "matchMedia (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "Object.defineProperties (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "getComputedStyle (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "console.log (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "Symbol.hasInstance (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "HTMLCanvasElement.protoype.toBlob (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "console.exception (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "Math.atanh (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "requestAnimationFrame (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "String.prototype.startsWith (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "Math.cbrt (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "String.prototype.repeat (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "console.warn (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "Math.log1p (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "document.getElementsByClassName (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "JSON (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "String.prototype.trim (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "Number.parseFloat (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "console.timeEnd (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "console.assert (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "devicePixelRatio (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "Math.imul (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "console.dir (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "String.prototype.contains (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "console (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "location.origin (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "XMLHttpRequest (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "Math.acosh (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "WeakSet (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "~viewport (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "Set (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "console.timeStamp (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "Object.getPrototypeOf (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "Symbol.isConcatSpreadable (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "console.group (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "navigator.sendBeacon (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "Node.prototype.contains (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "Math.clz32 (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "HTMLDocument (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "console.error (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "Number.isFinite (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "Number.isNaN (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "Number.MIN_SAFE_INTEGER (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "setImmediate (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "Map (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "console.groupCollapsed (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "Math.log10 (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "Number.isInteger (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "Symbol.species (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "Symbol.split (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "console.clear (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "Symbol.replace (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "Symbol.iterator (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "console.count (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "Object.defineProperty (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "Symbol.search (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "console.info (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "Number.parseInt (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "Object.assign (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "UserTiming (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "atob (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "Math.trunc (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "Object.is (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "Function.prototype.bind (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "localStorage (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "Object.keys (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "Math.expm1 (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "URL (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "~html5-elements (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "Symbol.unscopables (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "Object.getOwnPropertyNames (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "String.prototype.endsWith (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "Symbol (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "document.querySelector (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "document.currentScript (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "document.visibilityState (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "HTMLPictureElement (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "Symbol.toStringTag (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "Math.tanh (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "performance.now (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "document.head (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "Promise (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "Promise.prototype.finally (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "Event.focusin (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "Symbol.match (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "navigator.geolocation (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "MutationObserver (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "Math.cosh (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "Math.log2 (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "console.groupEnd (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "NodeList.prototype.@@iterator (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "Object.create (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "console.trace (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "console.markTimeline (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "Math.sinh (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "Object.getOwnPropertyDescriptor (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "WeakMap (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "screen.orientation (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "Object.setPrototypeOf (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "Symbol.toPrimitive (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "String.prototype.includes (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "Event.hashchange (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "Intl (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "Math.sign (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "console.timelineEnd (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "console.dirxml (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "console.timeline (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "console.time (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "Number.MAX_SAFE_INTEGER (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "Window (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
+    }
+  },
+  "fetch (timeout after 30000ms, 2 retries)": {
+    "android": {
+      "4.3": "polyfilled"
     }
   }
 }
