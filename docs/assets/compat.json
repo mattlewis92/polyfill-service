@@ -6547,7 +6547,8 @@
       "5.1": "polyfilled"
     },
     "android": {
-      "4.4": "polyfilled"
+      "4.4": "polyfilled",
+      "4.2": "polyfilled"
     },
     "ios_saf": {
       "9.1": "native"
@@ -6584,7 +6585,8 @@
       "5.1": "polyfilled"
     },
     "android": {
-      "4.4": "polyfilled"
+      "4.4": "polyfilled",
+      "4.2": "polyfilled"
     },
     "ios_saf": {
       "9.1": "native"
@@ -6619,7 +6621,8 @@
       "5.1": "polyfilled"
     },
     "android": {
-      "4.4": "polyfilled"
+      "4.4": "polyfilled",
+      "4.2": "polyfilled"
     },
     "ios_saf": {
       "9.1": "polyfilled"
@@ -6656,7 +6659,8 @@
       "5.1": "native"
     },
     "android": {
-      "4.4": "native"
+      "4.4": "native",
+      "4.2": "native"
     },
     "ios_saf": {
       "9.1": "native"
@@ -6693,7 +6697,8 @@
       "5.1": "missing"
     },
     "android": {
-      "4.4": "missing"
+      "4.4": "missing",
+      "4.2": "missing"
     },
     "ios_saf": {
       "9.1": "polyfilled"
