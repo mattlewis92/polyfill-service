@@ -1,17 +1,10 @@
 {
-	"aliases": [
-		"es6",
-		"default-3.4",
-		"default-3.5",
-		"default-3.6",
-		"default"
-	],
 	"browsers": {
 		"ie": "<14",
-		"ie_mob" : "*",
+		"ie_mob": "*",
 		"firefox": "<16",
-		"firefox_mob":"<44",
-		"chrome":"<19",
+		"firefox_mob": "<44",
+		"chrome": "<19",
 		"android": "<4.1",
 		"safari": "<9",
 		"ios_saf": "<9",

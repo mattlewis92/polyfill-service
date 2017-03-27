@@ -1,14 +1,4 @@
 {
-	"aliases": [
-		"modernizr:promises",
-		"caniuse:promises",
-		"blissfuljs",
-		"default-3.4",
-		"default-3.5",
-		"default-3.6",
-		"default",
-		"es6"
-	],
 	"browsers": {
 		"android": "* - 4.4",
 		"bb": "* - 10",
@@ -35,6 +25,8 @@
 	"repo": "https://github.com/ysmood/yaku",
 	"install": {
 		"module": "yaku",
-		"paths": ["dist/yaku.browser.global.min.js"]
+		"paths": [
+			"dist/yaku.browser.global.min.js"
+		]
 	}
 }

@@ -7,7 +7,6 @@ node_modules/
 /node-*
 npm-debug.log
 /polyfills/__dist
-/polyfills/aliases.json
 /polyfills/Array/of/polyfill.js
 /polyfills/atob/polyfill.js
 /polyfills/AudioContext/polyfill.js

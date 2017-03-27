@@ -1,7 +1,4 @@
 {
-	"aliases": [
-		"es7"
-	],
 	"browsers": {
 		"android": "*",
 		"bb": "*",

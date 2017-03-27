@@ -1,6 +1,4 @@
 {
-	"aliases": [
-	],
 	"browsers": {
 		"android": "4.4 - *",
 		"bb": "7 - 10",
@@ -33,6 +31,8 @@
 	"repo": "https://github.com/WICG/IntersectionObserver",
 	"install": {
 		"module": "intersection-observer",
-		"paths": ["intersection-observer"]
+		"paths": [
+			"intersection-observer"
+		]
 	}
 }

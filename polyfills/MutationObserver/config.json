@@ -17,6 +17,8 @@
 	"license": "WTFPL",
 	"install": {
 		"module": "mutationobserver-shim",
-		"paths": ["MutationObserver.js"]
+		"paths": [
+			"MutationObserver.js"
+		]
 	}
 }

@@ -33,7 +33,7 @@ describe('lib/sources', () => {
 		mockery.registerMock('path', pathMock);
 
 		aliases = {};
-		mockery.registerMock('../polyfills/__dist/aliases.json', aliases);
+		mockery.registerMock('../aliases', aliases);
 	});
 
 	it('exports an object', () => {

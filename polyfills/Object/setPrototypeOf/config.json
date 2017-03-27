@@ -1,7 +1,4 @@
 {
-	"aliases": [
-		"es6"
-	],
 	"browsers": {
 		"android": "*",
 		"bb": "*",
@@ -26,5 +23,5 @@
 	],
 	"license": "MIT",
 	"docs": "https://tc39.github.io/ecma262/#sec-object.setprototypeof",
-	"repo" : "https://github.com/paulmillr/es6-shim/"
+	"repo": "https://github.com/paulmillr/es6-shim/"
 }

@@ -59,18 +59,6 @@ function checkForCircularDependencies(polyfills) {
 	}
 }
 
-function writeAliasFile(polyfills, dir) {
-	const aliases = {};
-
-	for (const polyfill of polyfills) {
-		for (const alias of polyfill.aliases) {
-			aliases[alias] = (aliases[alias] || []).concat(polyfill.name);
-		}
-	}
-
-	return writeFile(path.join(dir, 'aliases.json'), JSON.stringify(aliases));
-}
-
 class Polyfill {
 	constructor(absolute, relative) {
 		this.path = { absolute, relative };
@@ -247,7 +235,6 @@ Promise.resolve()
 	.then(polyfills => checkForCircularDependencies(polyfills)
 		.then(() => makeDirectory(dest))
 		.then(() => console.log('Waiting for files to be written to disk...'))
-		.then(() => writeAliasFile(polyfills, dest))
 		.then(() => Promise.all(
 			polyfills.map(polyfill => polyfill.writeOutput(dest))
 		))

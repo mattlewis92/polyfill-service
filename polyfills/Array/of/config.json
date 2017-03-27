@@ -1,12 +1,4 @@
 {
-	"aliases": [
-		"es6",
-		"modernizr:es6array",
-		"default-3.4",
-		"default-3.5",
-		"default-3.6",
-		"default"
-	],
 	"browsers": {
 		"chrome": "<=44",
 		"firefox": "* - 24",
@@ -26,7 +18,9 @@
 	"docs": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/of",
 	"install": {
 		"module": "array.of",
-		"paths": ["array-of.js"]
+		"paths": [
+			"array-of.js"
+		]
 	},
 	"license": "MIT",
 	"repo": "https://github.com/mathiasbynens/Array.of/"

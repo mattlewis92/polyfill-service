@@ -1,6 +1,4 @@
 {
-	"aliases": [
-	],
 	"browsers": {
 		"android": ">4.4",
 		"bb": ">10",

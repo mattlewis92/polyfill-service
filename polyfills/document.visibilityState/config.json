@@ -1,15 +1,4 @@
 {
-	"aliases": [
-		"default-3.3",
-		"default-3.4",
-		"default-3.5",
-		"default-3.6",
-		"default",
-		"caniuse:visib",
-		"caniuse:pagevisibility",
-		"modernizr:pagevisibility",
-		"PageVisibility"
-	],
 	"browsers": {
 		"firefox": "10 - 17",
 		"safari": "4",

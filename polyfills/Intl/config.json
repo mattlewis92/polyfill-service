@@ -24,7 +24,9 @@
 	],
 	"install": {
 		"module": "intl",
-		"paths": ["dist/Intl.min.js"],
+		"paths": [
+			"dist/Intl.min.js"
+		],
 		"postinstall": "update.task.js"
 	}
 }

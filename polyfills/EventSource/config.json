@@ -1,6 +1,4 @@
 {
-	"aliases": [
-	],
 	"browsers": {
 		"firefox": "<36",
 		"chrome": "<26",

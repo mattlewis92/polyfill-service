@@ -1,7 +1,4 @@
 {
-	"aliases": [
-		"es6"
-	],
 	"browsers": {
 		"ie": "< 13",
 		"ie_mob": "*",

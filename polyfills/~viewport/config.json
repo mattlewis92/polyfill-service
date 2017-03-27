@@ -4,14 +4,5 @@
 	},
 	"dependencies": [
 		"Object.defineProperties"
-	],
-	"aliases": [
-		"viewport",
-		"innerHeight",
-		"innerWidth",
-		"pageXOffset",
-		"pageYOffset",
-		"scrollX",
-		"scrollY"
 	]
 }
