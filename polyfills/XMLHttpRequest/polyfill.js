@@ -32,6 +32,12 @@
 	XMLHttpRequestPrototype.removeEventListener = global.removeEventListener;
 	XMLHttpRequestPrototype.dispatchEvent = global.dispatchEvent;
 
+	XMLHttpRequestPrototype.UNSENT = 0;
+	XMLHttpRequestPrototype.OPENED = 1;
+	XMLHttpRequestPrototype.HEADERS_RECEIVED = 2;
+	XMLHttpRequestPrototype.LOADING = 3;
+	XMLHttpRequestPrototype.DONE = 4;
+
 	XMLHttpRequestPrototype.abort = function abort() {
 		return this._request();
 	};
